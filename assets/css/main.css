@@ -2609,6 +2609,7 @@ input, select, textarea {
 
 			#footer .copyright {
 				font-size: 1em;
+				padding: 0.5em 1.25em 0.5em 1.25em;
 				margin: 0 0 4em 0;
 			}
 
