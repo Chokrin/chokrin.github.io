@@ -1912,17 +1912,11 @@ input, select, textarea {
 				padding: 40px 0 0px 0;
 			}
 
-				.box.style2 .inner:after {
-					
-				}
 
 				.box.style2 .inner .row {
 					position: relative;
 				}
 
-					.box.style2 .inner .row:before {
-						
-					}
 
 				.box.style2 .inner .image {
 					position: relative;
