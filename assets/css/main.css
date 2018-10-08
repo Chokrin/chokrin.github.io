@@ -2124,12 +2124,6 @@ input, select, textarea {
 	}
 
 		#footer:after {
-			content: '';
-			display: block;
-			position: absolute;
-			top: -4.5em;
-			left: 50%;
-			height: 4.5em;
 			 
 		}
 
