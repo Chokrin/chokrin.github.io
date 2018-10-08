@@ -1913,13 +1913,7 @@ input, select, textarea {
 			}
 
 				.box.style2 .inner:after {
-					content: '';
-					display: block;
-					position: absolute;
-					top: 0;
-					left: 50%;
-					height: 77%;
-					border-left: solid 0px #fff;
+					
 				}
 
 				.box.style2 .inner .row {
