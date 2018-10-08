@@ -1919,7 +1919,7 @@ input, select, textarea {
 					top: 0;
 					left: 50%;
 					height: 77%;
-					border-left: solid 1px #fff;
+					border-left: solid 0px #fff;
 				}
 
 				.box.style2 .inner .row {
