@@ -1577,7 +1577,7 @@ input, select, textarea {
 
 		ul.menu li {
 			display: inline-block;
-			/* line-height: 1em; */
+			line-height: 1em; 
 			border-left: solid 1px #dad9d9;
 			padding: 0 0 0 0.5em;
 			margin: 0 0 0 0.5em;
@@ -1918,7 +1918,7 @@ input, select, textarea {
 					position: absolute;
 					top: 0;
 					left: 50%;
-					height: 77.5%;
+					height: 77%;
 					border-left: solid 1px #fff;
 				}
 
@@ -2130,7 +2130,7 @@ input, select, textarea {
 			top: -4.5em;
 			left: 50%;
 			height: 4.5em;
-			border-left: solid 1px #fff;
+			/* border-left: solid 1px #fff; */
 		}
 
 		#footer a {
